@@ -1,0 +1,36 @@
+.container {
+    height: 100vh; /* Definindo a altura como 100% da altura da viewport */
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(37,97,207,1) 0%, rgba(0,212,255,1) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form {
+    width: 90%; /* Alterado para uma largura relativa */
+    max-width: 500px; /* Largura máxima opcional para telas maiores */
+    margin: auto;
+    background-color: rgb(235, 235, 235);
+    padding: 2rem; /* Ajustando o padding para 2rem em vez de 4rem no topo e na base e 1rem nas laterais */
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adicionando uma sombra suave */
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: auto; /* Removido a altura fixa e deixando a altura automática */
+    width: 100%;
+    display: block; /* Adicionando display block para centralizar a imagem */
+    margin: 0 auto 2rem auto; /* Ajustando a margem inferior para 2rem */
+}
+
+.full-width {
+    width: 100%;
+}
+
+button {
+    margin-top: 1.4rem;
+}
