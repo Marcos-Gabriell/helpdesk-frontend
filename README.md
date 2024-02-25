@@ -30,6 +30,19 @@ No âmbito técnico, o HelpDesk Frontend utiliza as seguintes tecnologias e conc
 4. Execute o servidor de desenvolvimento utilizando o comando `ng serve`.
 5. Acesse a aplicação através do navegador.
 
+## Interfaces do Projeto
+
+Aqui estão algumas interfaces do projeto:
+
+1. ![Interface 1](path_para_sua_imagem1.png)
+2. ![Interface 2](path_para_sua_imagem2.png)
+3. ![Interface 3](path_para_sua_imagem3.png)
+4. ![Interface 4](path_para_sua_imagem4.png)
+5. ![Interface 5](path_para_sua_imagem5.png)
+6. ![Interface 6](path_para_sua_imagem6.png)
+7. ![Interface 7](path_para_sua_imagem7.png)
+8. ![Interface 8](path_para_sua_imagem8.png)
+
 
 ---
 Este projeto foi desenvolvido como parte do aprendizado em desenvolvimento web e Angular.
