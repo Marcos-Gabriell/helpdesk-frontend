@@ -34,14 +34,14 @@ No âmbito técnico, o HelpDesk Frontend utiliza as seguintes tecnologias e conc
 
 Aqui estão algumas interfaces do projeto:
 
-1. ![Interface 1](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/1.png)
-2. ![Interface 2](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/2.png)
-3. ![Interface 3](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/3.png)
-4. ![Interface 4](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/4.png)
-5. ![Interface 5](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/5.png)
-6. ![Interface 6](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/6.png)
-7. ![Interface 7](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/7.png)
-8. ![Interface 8](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/8.png)
+ ![Interface 1](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/1.png)
+ ![Interface 2](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/2.png)
+ ![Interface 3](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/3.png)
+ ![Interface 4](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/4.png)
+ ![Interface 5](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/5.png)
+ ![Interface 6](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/6.png)
+ ![Interface 7](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/7.png)
+ ![Interface 8](https://github.com/Marcos-Gabriell/helpdesk-frontend/blob/master/src/assets/img/8.png)
 
 
 ---
