@@ -45,3 +45,9 @@ Aqui estão algumas interfaces do projeto:
 
 ---
 Este projeto foi desenvolvido como parte do aprendizado em desenvolvimento web e Angular.
+
+
+## Back-End
+
+O repositório com o código do Back-End do projeto HelpDesk está disponível em:
+[Repositório HelpDesk Back-End](https://github.com/Marcos-Gabriell/helpdesk-backend)
